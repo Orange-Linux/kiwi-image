@@ -1,0 +1,3 @@
+*.kiwi linguist-detectable=true
+*.kiwi linguist-documentation=false
+*.kiwi linguist-language=XML
